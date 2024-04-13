@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: black;
+  margin: 0;
+  padding: 0;
+}
+
+#game-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  margin: 30px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 20px;
+  background-color: whitesmoke;
+  color: firebrick;
+  border: gold;
+  cursor: pointer;
+  transition: background-color 0.5s;
+}
+
+button:hover {
+  background-color: #0c87ce;
+}
+
+span {
+  font-weight: bolder;
+  font-size: 20px;
+}
